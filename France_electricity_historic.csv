@@ -1,0 +1,378 @@
+Year,Elec_Source,Value
+1990,Coal,35423
+1990,Solar thermal,0
+1990,Wind,0
+1990,Tide,503
+1990,Other sources,0
+1990,Oil,8668
+1990,Natural gas,3027
+1990,Biofuels,1188
+1990,Waste,444
+1990,Nuclear,314081
+1990,Hydro,57418
+1990,Geothermal,0
+1990,Solar PV,0
+1991,Coal,43204
+1991,Solar thermal,0
+1991,Wind,0
+1991,Tide,517
+1991,Other sources,0
+1991,Oil,14084
+1991,Natural gas,3054
+1991,Biofuels,1358
+1991,Waste,454
+1991,Nuclear,331340
+1991,Hydro,61545
+1991,Geothermal,0
+1991,Solar PV,0
+1992,Coal,37732
+1992,Solar thermal,0
+1992,Wind,0
+1992,Tide,516
+1992,Other sources,0
+1992,Oil,9319
+1992,Natural gas,3185
+1992,Biofuels,1378
+1992,Waste,480
+1992,Nuclear,338445
+1992,Hydro,72584
+1992,Geothermal,0
+1992,Solar PV,0
+1993,Coal,24749
+1993,Solar thermal,0
+1993,Wind,2
+1993,Tide,494
+1993,Other sources,0
+1993,Oil,6091
+1993,Natural gas,3496
+1993,Biofuels,1221
+1993,Waste,518
+1993,Nuclear,368188
+1993,Hydro,67948
+1993,Geothermal,0
+1993,Solar PV,0
+1994,Coal,24143
+1994,Solar thermal,0
+1994,Wind,5
+1994,Tide,501
+1994,Other sources,0
+1994,Oil,5617
+1994,Natural gas,3625
+1994,Biofuels,1386
+1994,Waste,540
+1994,Nuclear,359981
+1994,Hydro,81069
+1994,Geothermal,0
+1994,Solar PV,1
+1995,Coal,26556
+1995,Solar thermal,0
+1995,Wind,5
+1995,Tide,507
+1995,Other sources,0
+1995,Oil,7749
+1995,Natural gas,3840
+1995,Biofuels,1451
+1995,Waste,742
+1995,Nuclear,377231
+1995,Hydro,76192
+1995,Geothermal,0
+1995,Solar PV,1
+1996,Coal,30966
+1996,Solar thermal,0
+1996,Wind,7
+1996,Tide,491
+1996,Other sources,0
+1996,Oil,7790
+1996,Natural gas,4122
+1996,Biofuels,1465
+1996,Waste,934
+1996,Nuclear,397340
+1996,Hydro,70282
+1996,Geothermal,0
+1996,Solar PV,1
+1997,Coal,25863
+1997,Solar thermal,0
+1997,Wind,11
+1997,Tide,510
+1997,Other sources,0
+1997,Oil,7727
+1997,Natural gas,4900
+1997,Biofuels,1615
+1997,Waste,1100
+1997,Nuclear,395483
+1997,Hydro,67559
+1997,Geothermal,0
+1997,Solar PV,2
+1998,Coal,37312
+1998,Solar thermal,0
+1998,Wind,19
+1998,Tide,522
+1998,Other sources,0
+1998,Oil,11651
+1998,Natural gas,4975
+1998,Biofuels,1560
+1998,Waste,1142
+1998,Nuclear,387990
+1998,Hydro,66103
+1998,Geothermal,0
+1998,Solar PV,2
+1999,Coal,33112
+1999,Solar thermal,0
+1999,Wind,37
+1999,Tide,515
+1999,Other sources,0
+1999,Oil,9952
+1999,Natural gas,7701
+1999,Biofuels,1516
+1999,Waste,1644
+1999,Nuclear,394244
+1999,Hydro,77083
+1999,Geothermal,0
+1999,Solar PV,2
+2000,Coal,30860
+2000,Solar thermal,0
+2000,Wind,48
+2000,Tide,507
+2000,Other sources,0
+2000,Oil,7165
+2000,Natural gas,11514
+2000,Biofuels,1398
+2000,Waste,2162
+2000,Nuclear,415162
+2000,Hydro,71133
+2000,Geothermal,0
+2000,Solar PV,5
+2001,Coal,23901
+2001,Solar thermal,0
+2001,Wind,131
+2001,Tide,485
+2001,Other sources,0
+2001,Oil,5958
+2001,Natural gas,15146
+2001,Biofuels,1382
+2001,Waste,2934
+2001,Nuclear,421076
+2001,Hydro,78511
+2001,Geothermal,0
+2001,Solar PV,6
+2002,Coal,26991
+2002,Solar thermal,0
+2002,Wind,265
+2002,Tide,494
+2002,Other sources,0
+2002,Oil,5767
+2002,Natural gas,18369
+2002,Biofuels,1506
+2002,Waste,3074
+2002,Nuclear,436760
+2002,Hydro,65831
+2002,Geothermal,0
+2002,Solar PV,7
+2003,Coal,29266
+2003,Solar thermal,0
+2003,Wind,388
+2003,Tide,490
+2003,Other sources,0
+2003,Oil,7096
+2003,Natural gas,19368
+2003,Biofuels,1580
+2003,Waste,3294
+2003,Nuclear,441070
+2003,Hydro,64279
+2003,Geothermal,0
+2003,Solar PV,8
+2004,Coal,27235
+2004,Solar thermal,0
+2004,Wind,595
+2004,Tide,470
+2004,Other sources,0
+2004,Oil,6528
+2004,Natural gas,21049
+2004,Biofuels,1595
+2004,Waste,3434
+2004,Nuclear,448241
+2004,Hydro,64899
+2004,Geothermal,0
+2004,Solar PV,8
+2005,Coal,30705
+2005,Solar thermal,0
+2005,Wind,962
+2005,Tide,481
+2005,Other sources,0
+2005,Oil,7925
+2005,Natural gas,23069
+2005,Biofuels,1734
+2005,Waste,3314
+2005,Nuclear,451529
+2005,Hydro,56332
+2005,Geothermal,0
+2005,Solar PV,11
+2006,Coal,26404
+2006,Solar thermal,0
+2006,Wind,2182
+2006,Tide,464
+2006,Other sources,0
+2006,Oil,7133
+2006,Natural gas,21760
+2006,Biofuels,1772
+2006,Waste,3210
+2006,Nuclear,450191
+2006,Hydro,61742
+2006,Geothermal,0
+2006,Solar PV,12
+2007,Coal,28197
+2007,Solar thermal,0
+2007,Wind,4070
+2007,Tide,465
+2007,Other sources,304
+2007,Oil,6163
+2007,Natural gas,21987
+2007,Biofuels,1975
+2007,Waste,3600
+2007,Nuclear,439730
+2007,Hydro,63259
+2007,Geothermal,0
+2007,Solar PV,18
+2008,Coal,26434
+2008,Solar thermal,0
+2008,Wind,5694
+2008,Tide,465
+2008,Other sources,241
+2008,Oil,5343
+2008,Natural gas,21884
+2008,Biofuels,2108
+2008,Waste,3781
+2008,Nuclear,439447
+2008,Hydro,68368
+2008,Geothermal,0
+2008,Solar PV,42
+2009,Coal,24019
+2009,Solar thermal,0
+2009,Wind,7912
+2009,Tide,448
+2009,Other sources,241
+2009,Oil,4712
+2009,Natural gas,20503
+2009,Biofuels,2110
+2009,Waste,4104
+2009,Nuclear,409736
+2009,Hydro,61966
+2009,Geothermal,0
+2009,Solar PV,174
+2010,Coal,26315
+2010,Solar thermal,0
+2010,Wind,9945
+2010,Tide,476
+2010,Other sources,135
+2010,Oil,5521
+2010,Natural gas,23758
+2010,Biofuels,2468
+2010,Waste,4003
+2010,Nuclear,428521
+2010,Hydro,67526
+2010,Geothermal,0
+2010,Solar PV,620
+2011,Coal,20290
+2011,Solar thermal,0
+2011,Wind,12104
+2011,Tide,477
+2011,Other sources,547
+2011,Oil,7446
+2011,Natural gas,29491
+2011,Biofuels,3280
+2011,Waste,4289
+2011,Nuclear,442388
+2011,Hydro,50760
+2011,Geothermal,62
+2011,Solar PV,2333
+2012,Coal,24124
+2012,Solar thermal,0
+2012,Wind,14984
+2012,Tide,458
+2012,Other sources,749
+2012,Oil,7285
+2012,Natural gas,22759
+2012,Biofuels,3092
+2012,Waste,4553
+2012,Nuclear,425406
+2012,Hydro,64644
+2012,Geothermal,57
+2012,Solar PV,4428
+2013,Coal,26331
+2013,Solar thermal,0
+2013,Wind,16106
+2013,Tide,414
+2013,Other sources,809
+2013,Oil,6390
+2013,Natural gas,18399
+2013,Biofuels,3259
+2013,Waste,4275
+2013,Nuclear,423685
+2013,Hydro,76945
+2013,Geothermal,90
+2013,Solar PV,5192
+2014,Coal,13818
+2014,Solar thermal,0
+2014,Wind,17318
+2014,Tide,481
+2014,Other sources,712
+2014,Oil,6424
+2014,Natural gas,13154
+2014,Biofuels,3746
+2014,Waste,4152
+2014,Nuclear,436479
+2014,Hydro,69571
+2014,Geothermal,83
+2014,Solar PV,6391
+2015,Coal,14536
+2015,Solar thermal,0
+2015,Wind,21319
+2015,Tide,487
+2015,Other sources,715
+2015,Oil,6674
+2015,Natural gas,21136
+2015,Biofuels,4375
+2015,Waste,4279
+2015,Nuclear,437428
+2015,Hydro,60403
+2015,Geothermal,92
+2015,Solar PV,7750
+2016,Coal,12365
+2016,Solar thermal,0
+2016,Wind,21473
+2016,Tide,501
+2016,Other sources,565
+2016,Oil,6856
+2016,Natural gas,34981
+2016,Biofuels,5423
+2016,Waste,4620
+2016,Nuclear,403195
+2016,Hydro,65684
+2016,Geothermal,98
+2016,Solar PV,8657
+2017,Coal,15058
+2017,Solar thermal,0
+2017,Wind,24711
+2017,Tide,522
+2017,Other sources,679
+2017,Oil,7390
+2017,Natural gas,40439
+2017,Biofuels,5436
+2017,Waste,4736
+2017,Nuclear,398359
+2017,Hydro,55108
+2017,Geothermal,133
+2017,Solar PV,9573
+2018,Coal,9271
+2018,Solar thermal,0
+2018,Wind,28501
+2018,Tide,680
+2018,Other sources,679
+2018,Oil,5594
+2018,Natural gas,31861
+2018,Biofuels,5876
+2018,Waste,4855
+2018,Nuclear,412962
+2018,Hydro,70136
+2018,Geothermal,133
+2018,Solar PV,10196
